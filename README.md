@@ -1,3 +1,3 @@
 # temp-repo
 
-This is a temporary repository
+This is an updated README file
